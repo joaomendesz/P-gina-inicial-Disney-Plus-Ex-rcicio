@@ -10,3 +10,5 @@
 # Objetivo desse exércicio.
 
 Fiz esse exércicio para exercitar meu conhecimento em HTML5 & CSS3, além de botar em prática algumas funções de CSS que aprendi em aulas a algum tempo, foi um projeto bem básico só para aprender melhor como utilizar algumas ferramentas e códigos.
+
+### Todas imagens foram retiradas da internet sem fins lucrativos apenas para aprendizado!
